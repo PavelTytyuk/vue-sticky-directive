@@ -7,6 +7,7 @@ const events = [
   'touchend',
   'pageshow',
   'load',
+  'me-table-init'
 ];
 
 const batchStyle = (el, style = {}, className = {}) => {
